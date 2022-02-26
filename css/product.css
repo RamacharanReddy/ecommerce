@@ -1,0 +1,33 @@
+/*CSS style sheet*/
+
+#main-wrapper{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border: 2px solid #95a5a6;
+}
+.avatar{
+	
+	width:150px;
+	text-align:center;
+}
+.logo{
+width:15%;
+height:15%;
+}
+
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+
+.inputvalues{
+	width:430px;
+	margin:5px auto;
+	padding:2px;
+}
+.radiobtns{
+	margin: 10px;
+}
